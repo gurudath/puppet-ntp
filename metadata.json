@@ -1,0 +1,15 @@
+{
+  "name": "guru-ntp",
+  "version": "0.1.0",
+  "author": "GurudathBN",
+  "summary": "This is ntp module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/gurudath/puppet-ntp.git",
+  "project_page": "https://github.com/gurudath/puppet-ntp",
+  "issues_url": "https://github.com/gurudath/puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
